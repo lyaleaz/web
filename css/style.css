@@ -1,0 +1,98 @@
+body{
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  background-color: #EAF6F6;
+font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+}
+hr{
+
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 7px;
+  width: 7%;
+
+  }
+h1{
+  margin-top: 0;
+  margin: 50px auto;
+}
+p{
+   font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+
+
+}
+/*.top-container{
+  background-color: #9ED2C6;
+  margin-top: -48px;
+}*/
+h2{
+color: #66BFBF;
+}
+.top-cloud{
+position: absolute;
+right: 310px;
+top: 106px;
+
+}
+.bottom-cloud
+{
+  position: absolute;
+  left: 350px;
+  bottom:300px;
+}
+.taple{
+  text-align: center;
+}
+.Education-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.Experience-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.Skills-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.project-row{
+
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 1.5;
+}
+
+.edu{
+  float: left;
+  margin-right: 30px;
+  margin-left: -70px;
+}
+.edu1
+{
+  float: right;
+  margin-left: 30px;
+}
+.edu2{
+  float: left;
+  margin-right: 10px;
+  margin-left: -80px;
+}
+.tab{
+  font-size: 15px;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 30px 0 10px;
+
+
+}
+.aa{
+  margin: 10px 20px;
+}

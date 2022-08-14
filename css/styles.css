@@ -1,0 +1,25 @@
+body{
+    background-color: #9ED2C6;
+}
+
+hr{
+
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 7px;
+  width: 7%;
+
+  }
+h1{
+  color: #256D85;
+  font-family: verdana, sans-serif;
+  text-align: center;
+}
+p{
+  font-family: verdana, sans-serif;
+
+}
+h3{
+color:#256D85;
+}
